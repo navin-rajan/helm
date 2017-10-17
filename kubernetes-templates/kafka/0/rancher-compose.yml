@@ -74,14 +74,6 @@
       options:
         - false
         - true
-    - variable: "zk_link"
-      description: |
-        Choose the Zookeeper service to use. 
-        It's really recommended a dedicated zookeeper service just for Kafka.
-      label: "Zookeeper stack/service"
-      default: "default/zookeeper"
-      required: true
-      type: "service"
 broker:
   scale: ${kafka_scale}
   retain_ip: true
