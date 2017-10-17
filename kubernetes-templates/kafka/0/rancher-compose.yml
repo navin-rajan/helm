@@ -1,11 +1,10 @@
 .catalog:
   name: Kafka
-  version: 0.10.0.1-k8s
+  version: 0.10.2.1-k8s
   description: |
     (Experimental) Apache Kafka cluster.
   minimum_rancher_version: v0.59.0
-  maximum_rancher_version: v1.3.99
-  maintainer: "Raul Sanchez <rawmind@gmail.com>"
+  maintainer: "navin"
   uuid: kafka-0
   questions:
     - variable: "kafka_name"
