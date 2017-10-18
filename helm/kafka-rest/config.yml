@@ -1,6 +1,6 @@
 name: Apache Kafka
 description: |
-  (Experimental) Kafka cluster
+  (Experimental) Kafka cluster [Cirrus]
 version: 0.10.2.1-k8s
 category: Clustering
 maintainer: "Raul Sanchez <rawmind@gmail.com>"
