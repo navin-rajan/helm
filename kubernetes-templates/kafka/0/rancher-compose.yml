@@ -1,5 +1,5 @@
 .catalog:
-  name: Kafkarest1
+  name: Kafka
   version: 0.10.2.1-k8s
   description: |
     (Experimental) Apache Kafka cluster.
